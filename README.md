@@ -1,5 +1,5 @@
 /* New Things Every Day — Day 129 */
-/* Analyzes test results and creates a quality report */
+/* Analyzes test result and creates a quality report */
 
 function dailyLog129() {
     const tests = [
